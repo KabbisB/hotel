@@ -1,0 +1,100 @@
+*{
+
+  padding:0;
+  margin:0;
+}
+header{
+  background-image: url("blank.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:100vh;
+  float:none;
+}
+.Row{
+  background-color:black;
+  text-align: center;
+  height: 30px;
+  padding-top:6px;
+  padding-bottom:6px;
+  font-size:18px;
+
+}
+.Row2{
+  text-align: center;
+  margin-top:100px;
+  color: black;
+  font-family: sans-serif;
+  text-shadow:  2px 2px #85929E;
+  font-size: 40px;
+}
+
+.main-nav li {
+  display: inline;
+  margin-right:60px;
+}
+.main-nav a{
+
+  color: white;
+}
+section{
+  margin-top:40px;
+}
+.imgi{
+  float:right;
+  max-width: 100vh;
+  max-height: 100vh;
+
+}
+.trial h3{
+  position: absolute;
+  margin-top:60px;
+  margin-left:60%;
+  text-emphasis: 40px;
+  font-size: 200%;
+
+}
+.trial p{
+
+  margin-left:60%;
+  margin-top:160px;
+  position: absolute;
+}
+.ugali h2{
+  position: absolute;
+  margin-top:60px;
+  margin-right:60%;
+  text-emphasis: 40px;
+  font-size: 200%;
+}
+
+.ugali p {
+  margin-right:60%;
+  margin-top:160px;
+  position: absolute;
+}
+
+.ugali{
+  float:left;
+  min-width:100vh;
+  max-height: 56vh;
+
+}
+
+.stylablle{
+  color:red;
+}
+
+.school{
+  float:left;
+  min-width:60vh;
+  max-height:60vh;
+  margin-top: 60px;
+}
+
+.slack p{
+
+  margin-left: 50%;
+  position:absolute;
+  margin-top:500px;
+  font-size: 30px;
+}
